@@ -1,0 +1,2 @@
+Run Mass Data Collection scripts to download data.
+Once done, copy generated json file into "data" folder.
